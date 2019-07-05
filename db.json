@@ -1,26 +1,26 @@
 {
   "products": [
-  {"id":1,"nama":"Reluctant Saint, The","nilai":1995},
-{"id":2,"nama":"Paper Man","nilai":1994},
-{"id":3,"nama":"Oliver!","nilai":1999},
-{"id":4,"nama":"Guy Thing, A","nilai":1996},
-{"id":5,"nama":"Gifted Hands: The Ben Carson Story","nilai":1992},
-{"id":6,"nama":"Tonight and Every Night","nilai":2007},
-{"id":7,"nama":"Casino Jack and the United States of Money","nilai":1986},
-{"id":8,"nama":"Lucky: No Time For Love","nilai":2003},
-{"id":9,"nama":"Hellraiser: Deader","nilai":2012},
-{"id":10,"nama":"Halloweentown High","nilai":1999},
-{"id":11,"nama":"Portraits Chinois","nilai":2006},
-{"id":12,"nama":"Dahmer","nilai":2000},
-{"id":13,"nama":"Shadows in an Empty Room","nilai":2009},
-{"id":14,"nama":"Associate, The (Associé, L')","nilai":2000},
-{"id":15,"nama":"Backtrack (Catchfire)","nilai":2001},
-{"id":16,"nama":"Perfect","nilai":2008},
-{"id":17,"nama":"Nothing About Robert (Rien sur Robert)","nilai":1992},
-{"id":18,"nama":"Grease","nilai":2006},
-{"id":19,"nama":"Righteous Kill","nilai":1990},
-{"id":20,"nama":"Shaolin Soccer (Siu lam juk kau)","nilai":2000}
-] 
+    {"id":1,"nama":"Reluctant Saint, The","nilai":1995},
+    {"id":2,"nama":"Paper Man","nilai":1994},
+    {"id":3,"nama":"Oliver!","nilai":1999},
+    {"id":4,"nama":"Guy Thing, A","nilai":1996},
+    {"id":5,"nama":"Gifted Hands: The Ben Carson Story","nilai":1992},
+    {"id":6,"nama":"Tonight and Every Night","nilai":2007},
+    {"id":7,"nama":"Casino Jack and the United States of Money","nilai":1986},
+    {"id":8,"nama":"Lucky: No Time For Love","nilai":2003},
+    {"id":9,"nama":"Hellraiser: Deader","nilai":2012},
+    {"id":10,"nama":"Halloweentown High","nilai":1999},
+    {"id":11,"nama":"Portraits Chinois","nilai":2006},
+    {"id":12,"nama":"Dahmer","nilai":2000},
+    {"id":13,"nama":"Shadows in an Empty Room","nilai":2009},
+    {"id":14,"nama":"Associate, The (Associé, L')","nilai":2000},
+    {"id":15,"nama":"Backtrack (Catchfire)","nilai":2001},
+    {"id":16,"nama":"Perfect","nilai":2008},
+    {"id":17,"nama":"Nothing About Robert (Rien sur Robert)","nilai":1992},
+    {"id":18,"nama":"Grease","nilai":2006},
+    {"id":19,"nama":"Righteous Kill","nilai":1990},
+    {"id":20,"nama":"Shaolin Soccer (Siu lam juk kau)","nilai":2000}
+  ]
 }
 
 
