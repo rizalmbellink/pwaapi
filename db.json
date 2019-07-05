@@ -10,9 +10,10 @@
   {"id":8,"name":"Moose","category":"Turquoise"},
   {"id":9,"name":"Vulture, egyptian","category":"Pink"},
   {"id":10,"name":"Brown capuchin","category":"Violet"}
-  ],
-  
-  "datagrafik": [
+  ]
+}
+{
+ "datagrafik": [
     {"id":1,"nama":"Reluctant Saint, The","nilai":1995},
 {"id":2,"nama":"Paper Man","nilai":1994},
 {"id":3,"nama":"Oliver!","nilai":1999},
@@ -33,7 +34,7 @@
 {"id":18,"nama":"Grease","nilai":2006},
 {"id":19,"nama":"Righteous Kill","nilai":1990},
 {"id":20,"nama":"Shaolin Soccer (Siu lam juk kau)","nilai":2000}
-]
+] 
 }
 
 
