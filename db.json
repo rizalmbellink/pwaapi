@@ -1,26 +1,5 @@
 {
   "products": [
-  /*{"id":1,"name":"Steller's sea lion","category":"Crimson"},
-  {"id":2,"name":"African fish eagle","category":"Fuscia"},
-  {"id":3,"name":"Neotropic cormorant","category":"Yellow"},
-  {"id":4,"name":"European red squirrel","category":"Green"},
-  {"id":5,"name":"Large cormorant","category":"Teal"},
-  {"id":6,"name":"Ferruginous hawk","category":"Violet"},
-  {"id":7,"name":"Agama lizard (unidentified)","category":"Puce"},
-  {"id":8,"name":"Moose","category":"Turquoise"},
-  {"id":9,"name":"Vulture, egyptian","category":"Pink"},
-  {"id":10,"name":"Brown capuchin","category":"Violet"},
-  {"id":11,"name":"Cardinal, black-throated","category":"Khaki"},
-  {"id":12,"name":"Lemur, ring-tailed","category":"Pink"},
-  {"id":13,"name":"Four-spotted skimmer","category":"Red"},
-  {"id":14,"name":"Crested screamer","category":"Puce"},
-  {"id":15,"name":"Red-breasted cockatoo","category":"Turquoise"},
-  {"id":16,"name":"Antechinus, brown","category":"Maroon"},
-  {"id":17,"name":"African red-eyed bulbul","category":"Puce"},
-  {"id":18,"name":"Penguin, fairy","category":"Crimson"},
-  {"id":19,"name":"Hoffman's sloth","category":"Crimson"},
-  {"id":20,"name":"Sandgrouse, yellow-throated","category":"Green"}*/
-    
     {"id":1,"nama":"Reluctant Saint, The","nilai":1995},
     {"id":2,"nama":"Paper Man","nilai":1994},
     {"id":3,"nama":"Oliver!","nilai":1999},
